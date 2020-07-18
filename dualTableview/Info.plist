@@ -2,6 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSLocationAlwaysUsageDescription </key>
+	<string>use location</string>
+	<key>NSLocationAlwaysUsageDescription has been renamed to Privacy - Location Always Usage Description</key>
+	<string>use device location</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>use device location</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>use device location</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
